@@ -15,13 +15,5 @@ def trukstami_skaiciai(nums):
     
     return trukstami
 
-# Pavyzdžio scenarijus 1
-nums = [4, 3, 2, 7, 8, 2, 3, 1]
-rezultatas = trukstami_skaiciai(nums)
-print(rezultatas)  # Rezultatas: [5, 6]
-
-# Pavyzdžio scenarijus 2
-nums = [1, 1]
-rezultatas = trukstami_skaiciai(nums)
 
 
