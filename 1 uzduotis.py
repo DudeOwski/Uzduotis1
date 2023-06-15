@@ -1,8 +1,6 @@
 def likutis_po_pirkimo(kainos, pinigai):
     min_likutis = pinigai
-    results = [likutis_po_pirkimo]
-    
-    
+      
     for i in range(len(kainos)):
         for j in range(i+1, len(kainos)):
             
