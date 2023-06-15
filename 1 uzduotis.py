@@ -1,6 +1,4 @@
 def likutis_po_pirkimo(kainos, pinigai):
-    kainos = [10, 20, 30]
-    pinigai = [50]
     min_likutis = pinigai
     results = [likutis_po_pirkimo]
     
